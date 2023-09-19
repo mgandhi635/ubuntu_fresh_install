@@ -25,3 +25,11 @@ Docker can be installed via a snap package by runnining `sudo snap install docke
 ```sudo usermod -aG docker $USER```
 
 You must reboot in order for this to take effect.
+
+## Miniconda
+
+## Nvidia Toolkit
+
+## C++ Development
+
+## Nvidia Docker
